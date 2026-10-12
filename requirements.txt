@@ -1,0 +1,7 @@
+pydicom>=3.0
+numpy>=1.24
+pylibjpeg>=2.0
+pylibjpeg-libjpeg>=2.0
+# 开发 / 验证
+pytest>=7.0
+dicom-validator>=0.8.2

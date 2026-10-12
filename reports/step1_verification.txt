@@ -1,0 +1,7 @@
+[OK]   <STUDY> - <PROC_ID>/AAhead_scout_1/IM-0001-0001.dcm
+[OK]   <STUDY> - <PROC_ID>/t1_mprage_071mm_cs_+C_11/IM-0005-0001.dcm
+[OK]   <STUDY> - <PROC_ID>/t1_mprage_071mm_cs_5/IM-0002-0001.dcm
+[OK]   <STUDY> - <PROC_ID>/t2_fs_space_hertz_07mm_7/IM-0004-0001.dcm
+[OK]   <STUDY> - <PROC_ID>/t2_tse_tra_DRB_6/IM-0003-0001.dcm
+
+全部通过

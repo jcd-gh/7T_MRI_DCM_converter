@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# 患者数据与生成结果——绝不入库
+data/
+out_*/
+
+# 本机实际数据目录的私有排除规则见 .git/info/exclude（仅本地生效，不会上传）
